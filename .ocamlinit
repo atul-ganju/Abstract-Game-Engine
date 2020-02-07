@@ -1,0 +1,12 @@
+#require "oUnit";;
+#require "yojson";;
+#require "ANSITerminal";;
+#require "str";;
+
+#directory "_build";;
+#load_rec "command.cmo";; 
+#load_rec "interface.cmo";;
+#load_rec "humPlayer.cmo";;
+#load_rec "comPlayer.cmo";;
+#load_rec "state.cmo";;
+#load_rec "authors.cmo";;

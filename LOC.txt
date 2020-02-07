@@ -1,0 +1,5 @@
+The reason our LOC is ~1300 is due to the data-driven nature of the project.
+Had we implemented chess and checkers "manually", there would be many lines
+added in OCaml to initialize the game. As it is, this gruntwork is carried
+out in the JSON files (new_game for each game), removing much code that would
+otherwise be needed.

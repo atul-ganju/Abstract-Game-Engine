@@ -1,0 +1,147 @@
+{
+  "type": "object",
+  "properties": {
+    "layout": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "piece": {
+            "type": "string"
+          },
+          "color": {
+            "type": "string"
+          },
+          "col": {
+            "type": "integer"
+          },
+          "row": {
+            "type": "integer"
+          },
+          "points": {
+            "type": "integer"
+          },
+          "first_moves": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "x": {
+                  "type": "integer"
+                },
+                "y": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "x",
+                "y"
+              ]
+            }
+          },
+          "moves": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "x": {
+                  "type": "integer"
+                },
+                "y": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "x",
+                "y"
+              ]
+            }
+          },
+          "attack_moves": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "x": {
+                  "type": "integer"
+                },
+                "y": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "x",
+                "y"
+              ]
+            }
+          },
+          "replace_zone": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "x": {
+                  "type": "integer"
+                },
+                "y": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "x",
+                "y"
+              ]
+            }
+          }
+        },
+        "replace_with": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "piece": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "piece"
+            ]
+          }
+        }
+      },
+      "first_move": {
+        "type": "boolean"
+      },
+      "required": [
+        "piece",
+        "color",
+        "col",
+        "row",
+        "moves"
+      ]
+    },
+    "size": {
+      "type": "integer"
+    },
+    "turn": {
+      "type": "string"
+    },
+    "rules": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "rule": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  },
+  "required": [
+    "layout",
+    "size",
+    "turn",
+    "rules"
+  ]
+}

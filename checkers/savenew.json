@@ -1,0 +1,52 @@
+ { "layout": [ 
+{
+  "piece": "checker", "points": 5, "first_move": true, "color": "black", "col": 7, "row": 5, "moves": [{ "x": -1, "y": 1},{ "x": 1, "y": 1} ], "attack_moves": [{ "x": -2, "y": 2},{ "x": 2, "y": 2} ], "replace_zone": [{ "x": 7, "y": 7},{ "x": 6, "y": 7},{ "x": 5, "y": 7},{ "x": 4, "y": 7},{ "x": 3, "y": 7},{ "x": 2, "y": 7},{ "x": 1, "y": 7},{ "x": 0, "y": 7} ] },
+{
+  "piece": "checker", "points": 5, "first_move": true, "color": "black", "col": 5, "row": 5, "moves": [{ "x": -1, "y": 1},{ "x": 1, "y": 1} ], "attack_moves": [{ "x": -2, "y": 2},{ "x": 2, "y": 2} ], "replace_zone": [{ "x": 7, "y": 7},{ "x": 6, "y": 7},{ "x": 5, "y": 7},{ "x": 4, "y": 7},{ "x": 3, "y": 7},{ "x": 2, "y": 7},{ "x": 1, "y": 7},{ "x": 0, "y": 7} ] },
+{
+  "piece": "checker", "points": 5, "first_move": true, "color": "black", "col": 3, "row": 5, "moves": [{ "x": -1, "y": 1},{ "x": 1, "y": 1} ], "attack_moves": [{ "x": -2, "y": 2},{ "x": 2, "y": 2} ], "replace_zone": [{ "x": 7, "y": 7},{ "x": 6, "y": 7},{ "x": 5, "y": 7},{ "x": 4, "y": 7},{ "x": 3, "y": 7},{ "x": 2, "y": 7},{ "x": 1, "y": 7},{ "x": 0, "y": 7} ] },
+{
+  "piece": "checker", "points": 5, "first_move": true, "color": "black", "col": 1, "row": 5, "moves": [{ "x": -1, "y": 1},{ "x": 1, "y": 1} ], "attack_moves": [{ "x": -2, "y": 2},{ "x": 2, "y": 2} ], "replace_zone": [{ "x": 7, "y": 7},{ "x": 6, "y": 7},{ "x": 5, "y": 7},{ "x": 4, "y": 7},{ "x": 3, "y": 7},{ "x": 2, "y": 7},{ "x": 1, "y": 7},{ "x": 0, "y": 7} ] },
+{
+  "piece": "checker", "points": 5, "first_move": true, "color": "black", "col": 6, "row": 6, "moves": [{ "x": -1, "y": 1},{ "x": 1, "y": 1} ], "attack_moves": [{ "x": -2, "y": 2},{ "x": 2, "y": 2} ], "replace_zone": [{ "x": 7, "y": 7},{ "x": 6, "y": 7},{ "x": 5, "y": 7},{ "x": 4, "y": 7},{ "x": 3, "y": 7},{ "x": 2, "y": 7},{ "x": 1, "y": 7},{ "x": 0, "y": 7} ] },
+{
+  "piece": "checker", "points": 5, "first_move": true, "color": "black", "col": 4, "row": 6, "moves": [{ "x": -1, "y": 1},{ "x": 1, "y": 1} ], "attack_moves": [{ "x": -2, "y": 2},{ "x": 2, "y": 2} ], "replace_zone": [{ "x": 7, "y": 7},{ "x": 6, "y": 7},{ "x": 5, "y": 7},{ "x": 4, "y": 7},{ "x": 3, "y": 7},{ "x": 2, "y": 7},{ "x": 1, "y": 7},{ "x": 0, "y": 7} ] },
+{
+  "piece": "checker", "points": 5, "first_move": true, "color": "black", "col": 2, "row": 6, "moves": [{ "x": -1, "y": 1},{ "x": 1, "y": 1} ], "attack_moves": [{ "x": -2, "y": 2},{ "x": 2, "y": 2} ], "replace_zone": [{ "x": 7, "y": 7},{ "x": 6, "y": 7},{ "x": 5, "y": 7},{ "x": 4, "y": 7},{ "x": 3, "y": 7},{ "x": 2, "y": 7},{ "x": 1, "y": 7},{ "x": 0, "y": 7} ] },
+{
+  "piece": "checker", "points": 5, "first_move": true, "color": "black", "col": 0, "row": 6, "moves": [{ "x": -1, "y": 1},{ "x": 1, "y": 1} ], "attack_moves": [{ "x": -2, "y": 2},{ "x": 2, "y": 2} ], "replace_zone": [{ "x": 7, "y": 7},{ "x": 6, "y": 7},{ "x": 5, "y": 7},{ "x": 4, "y": 7},{ "x": 3, "y": 7},{ "x": 2, "y": 7},{ "x": 1, "y": 7},{ "x": 0, "y": 7} ] },
+{
+  "piece": "checker", "points": 5, "first_move": true, "color": "black", "col": 7, "row": 7, "moves": [{ "x": -1, "y": 1},{ "x": 1, "y": 1} ], "attack_moves": [{ "x": -2, "y": 2},{ "x": 2, "y": 2} ], "replace_zone": [{ "x": 7, "y": 7},{ "x": 6, "y": 7},{ "x": 5, "y": 7},{ "x": 4, "y": 7},{ "x": 3, "y": 7},{ "x": 2, "y": 7},{ "x": 1, "y": 7},{ "x": 0, "y": 7} ] },
+{
+  "piece": "checker", "points": 5, "first_move": true, "color": "black", "col": 5, "row": 7, "moves": [{ "x": -1, "y": 1},{ "x": 1, "y": 1} ], "attack_moves": [{ "x": -2, "y": 2},{ "x": 2, "y": 2} ], "replace_zone": [{ "x": 7, "y": 7},{ "x": 6, "y": 7},{ "x": 5, "y": 7},{ "x": 4, "y": 7},{ "x": 3, "y": 7},{ "x": 2, "y": 7},{ "x": 1, "y": 7},{ "x": 0, "y": 7} ] },
+{
+  "piece": "checker", "points": 5, "first_move": true, "color": "black", "col": 3, "row": 7, "moves": [{ "x": -1, "y": 1},{ "x": 1, "y": 1} ], "attack_moves": [{ "x": -2, "y": 2},{ "x": 2, "y": 2} ], "replace_zone": [{ "x": 7, "y": 7},{ "x": 6, "y": 7},{ "x": 5, "y": 7},{ "x": 4, "y": 7},{ "x": 3, "y": 7},{ "x": 2, "y": 7},{ "x": 1, "y": 7},{ "x": 0, "y": 7} ] },
+{
+  "piece": "checker", "points": 5, "first_move": true, "color": "black", "col": 1, "row": 7, "moves": [{ "x": -1, "y": 1},{ "x": 1, "y": 1} ], "attack_moves": [{ "x": -2, "y": 2},{ "x": 2, "y": 2} ], "replace_zone": [{ "x": 7, "y": 7},{ "x": 6, "y": 7},{ "x": 5, "y": 7},{ "x": 4, "y": 7},{ "x": 3, "y": 7},{ "x": 2, "y": 7},{ "x": 1, "y": 7},{ "x": 0, "y": 7} ] },
+{
+  "piece": "checker", "points": 5, "first_move": true, "color": "white", "col": 6, "row": 2, "moves": [{ "x": -1, "y": 1},{ "x": 1, "y": 1} ], "attack_moves": [{ "x": -2, "y": 2},{ "x": 2, "y": 2} ], "replace_zone": [{ "x": 7, "y": 0},{ "x": 6, "y": 0},{ "x": 5, "y": 0},{ "x": 4, "y": 0},{ "x": 3, "y": 0},{ "x": 2, "y": 0},{ "x": 1, "y": 0},{ "x": 0, "y": 0} ] },
+{
+  "piece": "checker", "points": 5, "first_move": true, "color": "white", "col": 4, "row": 2, "moves": [{ "x": -1, "y": 1},{ "x": 1, "y": 1} ], "attack_moves": [{ "x": -2, "y": 2},{ "x": 2, "y": 2} ], "replace_zone": [{ "x": 7, "y": 0},{ "x": 6, "y": 0},{ "x": 5, "y": 0},{ "x": 4, "y": 0},{ "x": 3, "y": 0},{ "x": 2, "y": 0},{ "x": 1, "y": 0},{ "x": 0, "y": 0} ] },
+{
+  "piece": "checker", "points": 5, "first_move": true, "color": "white", "col": 2, "row": 2, "moves": [{ "x": -1, "y": 1},{ "x": 1, "y": 1} ], "attack_moves": [{ "x": -2, "y": 2},{ "x": 2, "y": 2} ], "replace_zone": [{ "x": 7, "y": 0},{ "x": 6, "y": 0},{ "x": 5, "y": 0},{ "x": 4, "y": 0},{ "x": 3, "y": 0},{ "x": 2, "y": 0},{ "x": 1, "y": 0},{ "x": 0, "y": 0} ] },
+{
+  "piece": "checker", "points": 5, "first_move": false, "color": "white", "col": 1, "row": 3, "moves": [{ "x": -1, "y": 1},{ "x": 1, "y": 1} ], "attack_moves": [{ "x": -2, "y": 2},{ "x": 2, "y": 2} ], "replace_zone": [{ "x": 7, "y": 0},{ "x": 6, "y": 0},{ "x": 5, "y": 0},{ "x": 4, "y": 0},{ "x": 3, "y": 0},{ "x": 2, "y": 0},{ "x": 1, "y": 0},{ "x": 0, "y": 0} ] },
+{
+  "piece": "checker", "points": 5, "first_move": true, "color": "white", "col": 7, "row": 1, "moves": [{ "x": -1, "y": 1},{ "x": 1, "y": 1} ], "attack_moves": [{ "x": -2, "y": 2},{ "x": 2, "y": 2} ], "replace_zone": [{ "x": 7, "y": 0},{ "x": 6, "y": 0},{ "x": 5, "y": 0},{ "x": 4, "y": 0},{ "x": 3, "y": 0},{ "x": 2, "y": 0},{ "x": 1, "y": 0},{ "x": 0, "y": 0} ] },
+{
+  "piece": "checker", "points": 5, "first_move": true, "color": "white", "col": 5, "row": 1, "moves": [{ "x": -1, "y": 1},{ "x": 1, "y": 1} ], "attack_moves": [{ "x": -2, "y": 2},{ "x": 2, "y": 2} ], "replace_zone": [{ "x": 7, "y": 0},{ "x": 6, "y": 0},{ "x": 5, "y": 0},{ "x": 4, "y": 0},{ "x": 3, "y": 0},{ "x": 2, "y": 0},{ "x": 1, "y": 0},{ "x": 0, "y": 0} ] },
+{
+  "piece": "checker", "points": 5, "first_move": true, "color": "white", "col": 3, "row": 1, "moves": [{ "x": -1, "y": 1},{ "x": 1, "y": 1} ], "attack_moves": [{ "x": -2, "y": 2},{ "x": 2, "y": 2} ], "replace_zone": [{ "x": 7, "y": 0},{ "x": 6, "y": 0},{ "x": 5, "y": 0},{ "x": 4, "y": 0},{ "x": 3, "y": 0},{ "x": 2, "y": 0},{ "x": 1, "y": 0},{ "x": 0, "y": 0} ] },
+{
+  "piece": "checker", "points": 5, "first_move": true, "color": "white", "col": 1, "row": 1, "moves": [{ "x": -1, "y": 1},{ "x": 1, "y": 1} ], "attack_moves": [{ "x": -2, "y": 2},{ "x": 2, "y": 2} ], "replace_zone": [{ "x": 7, "y": 0},{ "x": 6, "y": 0},{ "x": 5, "y": 0},{ "x": 4, "y": 0},{ "x": 3, "y": 0},{ "x": 2, "y": 0},{ "x": 1, "y": 0},{ "x": 0, "y": 0} ] },
+{
+  "piece": "checker", "points": 5, "first_move": true, "color": "white", "col": 6, "row": 0, "moves": [{ "x": -1, "y": 1},{ "x": 1, "y": 1} ], "attack_moves": [{ "x": -2, "y": 2},{ "x": 2, "y": 2} ], "replace_zone": [{ "x": 7, "y": 0},{ "x": 6, "y": 0},{ "x": 5, "y": 0},{ "x": 4, "y": 0},{ "x": 3, "y": 0},{ "x": 2, "y": 0},{ "x": 1, "y": 0},{ "x": 0, "y": 0} ] },
+{
+  "piece": "checker", "points": 5, "first_move": true, "color": "white", "col": 4, "row": 0, "moves": [{ "x": -1, "y": 1},{ "x": 1, "y": 1} ], "attack_moves": [{ "x": -2, "y": 2},{ "x": 2, "y": 2} ], "replace_zone": [{ "x": 7, "y": 0},{ "x": 6, "y": 0},{ "x": 5, "y": 0},{ "x": 4, "y": 0},{ "x": 3, "y": 0},{ "x": 2, "y": 0},{ "x": 1, "y": 0},{ "x": 0, "y": 0} ] },
+{
+  "piece": "checker", "points": 5, "first_move": true, "color": "white", "col": 2, "row": 0, "moves": [{ "x": -1, "y": 1},{ "x": 1, "y": 1} ], "attack_moves": [{ "x": -2, "y": 2},{ "x": 2, "y": 2} ], "replace_zone": [{ "x": 7, "y": 0},{ "x": 6, "y": 0},{ "x": 5, "y": 0},{ "x": 4, "y": 0},{ "x": 3, "y": 0},{ "x": 2, "y": 0},{ "x": 1, "y": 0},{ "x": 0, "y": 0} ] },
+{
+  "piece": "checker", "points": 5, "first_move": true, "color": "white", "col": 0, "row": 0, "moves": [{ "x": -1, "y": 1},{ "x": 1, "y": 1} ], "attack_moves": [{ "x": -2, "y": 2},{ "x": 2, "y": 2} ], "replace_zone": [{ "x": 7, "y": 0},{ "x": 6, "y": 0},{ "x": 5, "y": 0},{ "x": 4, "y": 0},{ "x": 3, "y": 0},{ "x": 2, "y": 0},{ "x": 1, "y": 0},{ "x": 0, "y": 0} ] } ], "size": 8, "turn": "black", "rules": [ 
+{
+  "rule": "checkers hop"
+  }]}

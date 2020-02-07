@@ -1,0 +1,9 @@
+1. Go to directory and unzip folder with command 
+  "$ unzip chessQuestionMark.zip" then
+2. Navigate to "Project"
+3. Run "make play" command
+4. Enter "chess" as game you would like to play, or "checkers"
+5. Enter "new game" to load a new game, or if previously ran "save game" then 
+"load game" with the name of the save
+6. For further command information, type help (may have to scroll up 
+above the board to see output)

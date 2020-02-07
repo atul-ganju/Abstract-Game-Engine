@@ -1,0 +1,21 @@
+castle
+
+check
+
+check mate
+
+AI
+
+replace
+
+
+- check if the king can be blocked by one of its pieces
+look at path and see if any same colored pieces can validly move to a coordinate 
+for all coordinates in path (seperate by whether there is a piece at coord bc that 
+determines which moves are valid moves)
+
+- king can move
+- check_checker on all valid moves of king
+
+
+- what is a 
